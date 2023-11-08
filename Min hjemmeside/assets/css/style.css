@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: tomato;
+}
+
+h1 span,
+h3 {
+  color: white;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+#red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.lead {
+  font-size: 20px;
+  color: white;
+  width: 600px;
+  padding: 20px;
+  margin: 0 auto 50px auto;
+  border: 10px solid white;
+  background-color: black;
+  border-radius: 30px;
+}
